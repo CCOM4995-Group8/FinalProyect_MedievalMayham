@@ -82,13 +82,17 @@ Tips:
 ![WhatsApp Image 2024-12-17 at 13 56 26 (1)](https://github.com/user-attachments/assets/3b4110cc-c392-4b05-8970-6e2074fbca6a)
 ![WhatsApp Image 2024-12-17 at 13 56 25](https://github.com/user-attachments/assets/244e0786-5fd3-4850-b079-d65b7990a68b)
 
+## Game Videos:
 
+https://github.com/user-attachments/assets/6f3faeee-2665-41f3-95a3-ba007a871237
+
+https://github.com/user-attachments/assets/a4a6527f-c2da-4ccb-9e39-9ab26d70db6c
 
 ---
 
 ## Technical Details
 
-- **Engine**: Unity 2022.3
+- **Engine**: Unity 2021.3
 - **Languages**: C#
 - **Version Control**: Git & GitHub
 - **Tools**: Blender (for 3D assets), Photoshop (textures/UI), FMOD (audio integration)
