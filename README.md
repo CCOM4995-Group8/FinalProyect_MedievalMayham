@@ -55,8 +55,7 @@
 3. Use the arrows keys to move and the left click button to attack.
 4. Escape the tower to win. 
 
-Win Condition: Defeat all the enemies.
-Lose Condition: Life reaches 0
+Win Condition: Defeat all the enemies. || Lose Condition: Life reaches 0
 
 ---
 
