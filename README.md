@@ -15,7 +15,6 @@
 6. [Game Screenshots](#game-screenshots)
 7. [Technical Details](#technical-details)
 8. [Credits](#credits)
-9. [License](#license)
 
 ---
 
@@ -96,26 +95,10 @@ Tips:
 ## Credits
 
 - **Game Design & Development**: Michael Rodriguez Guevarez (801-17-5776), Jose Pena Gandarilla (801-21-0418)
-- **Art & Assets**: [Tools or Artists]
-- **Music & Sound Effects**: [Composers or Sources]
-
-Special thanks to:
-- Unity Community
-- Playtesters
+- **Art & Assets**: [Tools or Artists] Unity store
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Connect with Me
-
-- **Portfolio**: [Your Portfolio Link]
-- **LinkedIn**: [Your LinkedIn Link]
-- **Twitter**: [Your Twitter Handle]
 
 ---
 
