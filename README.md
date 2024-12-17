@@ -50,7 +50,7 @@
 ---
 
 ### Steps to Play
-1. **Download the game from the zip file
+1. **Download the game from the zip file using this link: https://drive.google.com/file/d/1_5W_Oyt2AvaLhD_kVTSuolzNvGa0xo7r/view?usp=sharing
 2. **Open in Unity Editor** and Hit play.
 3. Use the arrows keys to move and the left click button to attack.
 4. Escape the tower to win. 
