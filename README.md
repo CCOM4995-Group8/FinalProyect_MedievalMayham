@@ -76,10 +76,6 @@ Tips:
 
 ## Game Screenshots
 
-![WhatsApp Image 2024-12-17 at 13 56 26 (11)](https://github.com/user-attachments/assets/c7733c13-e69f-4d52-a1d0-6254082c626a)
-![WhatsApp Image 2024-12-17 at 13 56 26 (10)](https://github.com/user-attachments/assets/9b55ddb1-9fed-4fbd-b0f7-6dab0fada407)
-![WhatsApp Image 2024-12-17 at 13 56 26 (9)](https://github.com/user-attachments/assets/697983c1-5584-4794-a5d0-8716118c568f)
-![WhatsApp Image 2024-12-17 at 13 56 26 (8)](https://github.com/user-attachments/assets/713f3627-835c-4f15-aa05-e2b67bbe55fb)
 ![WhatsApp Image 2024-12-17 at 13 56 26 (7)](https://github.com/user-attachments/assets/62c6f73e-7756-4816-91f7-9e27891a1322)
 ![WhatsApp Image 2024-12-17 at 13 56 26 (6)](https://github.com/user-attachments/assets/a203fe5f-542e-4e7c-9c5a-6ef0778da455)
 ![WhatsApp Image 2024-12-17 at 13 56 26 (5)](https://github.com/user-attachments/assets/8c9541ce-90e4-42c5-9aab-12a57a9bc92a)
