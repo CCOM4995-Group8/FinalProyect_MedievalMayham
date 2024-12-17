@@ -83,6 +83,7 @@ Tips:
 ![WhatsApp Image 2024-12-17 at 13 56 25](https://github.com/user-attachments/assets/244e0786-5fd3-4850-b079-d65b7990a68b)
 
 
+
 ---
 
 ## Technical Details
