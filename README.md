@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/91acd715-197d-44e2-a980-56557aec3901)
 # Medieval Mayhem
-**Link to access the game:** https://drive.google.com/file/d/1_5W_Oyt2AvaLhD_kVTSuolzNvGa0xo7r/view?usp=sharing
+**Link to access the game:** [https://drive.google.com/file/d/1_5W_Oyt2AvaLhD_kVTSuolzNvGa0xo7r/view?usp=sharing](https://drive.google.com/file/d/1ww49n8_4BBuykMXgFb0hSDTEyJo9Ms3E/view?usp=sharing)
 ### A first-person shooter game built in Unity where a wizard travels back in time to escape a tower, defeat bosses, and save the world.
 
 ---
@@ -50,10 +50,13 @@
 ---
 
 ### Steps to Play
-1. **Download the game from the zip file using this link: https://drive.google.com/file/d/1_5W_Oyt2AvaLhD_kVTSuolzNvGa0xo7r/view?usp=sharing
+1. **Download the game from the zip file using this link: [https://drive.google.com/file/d/1_5W_Oyt2AvaLhD_kVTSuolzNvGa0xo7r/view?usp=sharing](https://drive.google.com/file/d/1ww49n8_4BBuykMXgFb0hSDTEyJo9Ms3E/view?usp=sharing)
 2. **Open in Unity Editor** and Hit play.
 3. Use the arrows keys to move and the left click button to attack.
 4. Escape the tower to win. 
+
+Win Condition: Defeat all the enemies.
+Lose Condition: Life reaches 0
 
 ---
 
@@ -92,7 +95,7 @@ https://github.com/user-attachments/assets/a4a6527f-c2da-4ccb-9e39-9ab26d70db6c
 
 ## Technical Details
 
-- **Engine**: Unity 2021.3
+- **Engine**: Unity 2021.3.43f1
 - **Languages**: C#
 - **Version Control**: Git & GitHub
 - **Tools**: Blender (for 3D assets), Photoshop (textures/UI), FMOD (audio integration)
