@@ -1,8 +1,6 @@
 ![image](https://github.com/user-attachments/assets/91acd715-197d-44e2-a980-56557aec3901)
 # Medieval Mayhem
 
-![Game Banner or Logo](Insert-Image-URL-Here)
-
 ### A first-person shooter game built in Unity where a wizard travels back in time to escape a tower, defeat bosses, and save the world.
 
 ---
@@ -78,6 +76,18 @@ Tips:
 
 ## Game Screenshots
 
+![WhatsApp Image 2024-12-17 at 13 56 26 (11)](https://github.com/user-attachments/assets/c7733c13-e69f-4d52-a1d0-6254082c626a)
+![WhatsApp Image 2024-12-17 at 13 56 26 (10)](https://github.com/user-attachments/assets/9b55ddb1-9fed-4fbd-b0f7-6dab0fada407)
+![WhatsApp Image 2024-12-17 at 13 56 26 (9)](https://github.com/user-attachments/assets/697983c1-5584-4794-a5d0-8716118c568f)
+![WhatsApp Image 2024-12-17 at 13 56 26 (8)](https://github.com/user-attachments/assets/713f3627-835c-4f15-aa05-e2b67bbe55fb)
+![WhatsApp Image 2024-12-17 at 13 56 26 (7)](https://github.com/user-attachments/assets/62c6f73e-7756-4816-91f7-9e27891a1322)
+![WhatsApp Image 2024-12-17 at 13 56 26 (6)](https://github.com/user-attachments/assets/a203fe5f-542e-4e7c-9c5a-6ef0778da455)
+![WhatsApp Image 2024-12-17 at 13 56 26 (5)](https://github.com/user-attachments/assets/8c9541ce-90e4-42c5-9aab-12a57a9bc92a)
+![WhatsApp Image 2024-12-17 at 13 56 26 (4)](https://github.com/user-attachments/assets/e62efaac-b643-4393-9054-5d60ac58535b)
+![WhatsApp Image 2024-12-17 at 13 56 26 (3)](https://github.com/user-attachments/assets/256490ee-ae30-4f8a-a053-fd95d56e24bd)
+![WhatsApp Image 2024-12-17 at 13 56 26 (2)](https://github.com/user-attachments/assets/f593618e-fc0c-4d10-a82c-1cea86c94d98)
+![WhatsApp Image 2024-12-17 at 13 56 26 (1)](https://github.com/user-attachments/assets/3b4110cc-c392-4b05-8970-6e2074fbca6a)
+![WhatsApp Image 2024-12-17 at 13 56 25](https://github.com/user-attachments/assets/244e0786-5fd3-4850-b079-d65b7990a68b)
 
 
 ---
