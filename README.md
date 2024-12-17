@@ -72,6 +72,7 @@ Tips:
 
 ## Game Screenshots
 
+![WhatsApp Image 2024-12-17 at 13 56 24](https://github.com/user-attachments/assets/65af0065-cd73-4d8f-8257-e6b0d253c6bb)
 ![WhatsApp Image 2024-12-17 at 13 56 26 (7)](https://github.com/user-attachments/assets/62c6f73e-7756-4816-91f7-9e27891a1322)
 ![WhatsApp Image 2024-12-17 at 13 56 26 (6)](https://github.com/user-attachments/assets/a203fe5f-542e-4e7c-9c5a-6ef0778da455)
 ![WhatsApp Image 2024-12-17 at 13 56 26 (5)](https://github.com/user-attachments/assets/8c9541ce-90e4-42c5-9aab-12a57a9bc92a)
