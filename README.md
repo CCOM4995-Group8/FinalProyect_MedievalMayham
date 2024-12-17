@@ -109,9 +109,3 @@ Tips:
 
 ---
 
-
----
-
-"*Defeat the past to save the future.*"
-
----
