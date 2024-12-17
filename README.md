@@ -50,14 +50,11 @@
 ---
 
 ### Steps to Play
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+1. **Download the game from the zip file
    ```
-2. **Open in Unity Editor** (if you want to build the project).
-3. **Run the Game Executable**:
-   - Download the latest release from the [Releases](https://github.com/YourUsername/YourRepository/releases) section.
-   - Extract and run the `.exe` or `.app` file.
+2. **Open in Unity Editor** and Hit play.
+3. Use the arrows keys to move and the left click button to attack.
+4. Escape the tower to win. 
 
 ---
 
